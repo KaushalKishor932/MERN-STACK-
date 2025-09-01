@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Resume</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <div class="container">
+    <header>
+      <h1>Kaushal Kishor</h1>
+      <p>Web Developer | abcd@gmail.com | 648392XXXX | www.github/profile/name.com</p>
+    </header>
+
+    <section class="summary">
+      <h2>Professional Summary</h2>
+      <p>Creative and detail-oriented web developer with 1+ years of experience in designing, developing, and maintaining responsive websites. Passionate about clean code and user-centric design.</p>
+    </section>
+
+    <section class="experience">
+      <h2>Work Experience</h2>
+      <div class="job">
+        <h3>Full Stack Web Developer - ABC Corp</h3>
+        <span class="date">2025 - Present</span>
+        <ul>
+          <li>Developed and maintained company website using HTML, CSS, JavaScript, and React.</li>
+          <li>Collaborated with UI/UX team to improve user experience by 35%.</li>
+          <li>Optimized website performance, reducing load time by 50%.</li>
+        </ul>
+      </div>
+
+      <div class="job">
+        <h3>Frontend Developer - XYZ Ltd</h3>
+        <span class="date">2024 - 2025</span>
+        <ul>
+          <li>Built responsive pages using Bootstrap and vanilla JavaScript.</li>
+          <li>Worked closely with backend developers to integrate RESTful APIs.</li>
+        </ul>
+      </div>
+    </section>
+
+    <section class="education">
+      <h2>Education</h2>
+      <p><strong>B.Tech in Computer Science</strong> - GLA University,Mathura, 2023 - 2027</p>
+      <p><strong>Intermediate</strong> - ABC School,Mathura, 2023</p>
+      <p><strong>Highschool</strong> - ABC School,Mathura, 2021</p>
+    </section>
+
+    <section class="skills">
+      <h2>Skills</h2>
+      <ul class="skills-list">
+        <li>Java</li>
+        <li>DSA</li>
+        <li>C</li>
+        <li>Python</li>
+        <li>HTML5</li>
+        <li>CSS3</li>
+        <li>JavaScript</li>
+        <li>React</li>
+        <li>Git & GitHub</li>
+        <li>Responsive Design</li>
+      </ul>
+    </section>
+  </div>
+</body>
+</html>
